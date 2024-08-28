@@ -1,6 +1,6 @@
 <h1 align="center">Warcraft 2</h1>
 
-<h4 align="center">Warcraft 2 port for Android, iOS, Windows and OS X. </h4>
+<h4 align="center">Warcraft 2 port for Android. </h4>
 
 <p align="center">
     <a href="https://travis-ci.com/blairisme/warcraft">
@@ -37,6 +37,4 @@ An unofficial recreation of Warcraft 2, made so that this excellent game can be 
 
 ## Releases
 
-- [Windows v0.2 (PRE-ALPHA)](https://github.com/blairisme/warcraft/releases/latest/download/Warcraft-Windows.zip)
-- [MacOS v0.2 (PRE-ALPHA)](https://github.com/blairisme/warcraft/releases/latest/download/Warcraft-MacOS.zip)
 - [Android v0.2 (PRE-ALPHA)](https://github.com/blairisme/warcraft/releases/latest/download/Warcraft-Android.apk)
